@@ -125,6 +125,61 @@ Hands-on drone training from hardware to flight:
 
 ---
 
+---
+
+### 🧠 7. Ethical Hacking & Cybersecurity Workshop  
+**📍 BITS Pilani, Hyderabad | 🗓️ Mar 29–30, 2025**  
+**🎓 Organized by:** Techobytes Technologies & Pearl’25, BITS Pilani Hyderabad  
+
+#### 🧠 What I Learned:
+- Introduction to **Cybersecurity principles** and **Ethical Hacking methodologies**  
+- Hands-on session using **Kali Linux** — a key penetration testing platform  
+
+#### 🛠️ Tools Used:
+- Kali Linux for practical hacking techniques and ethical testing environments  
+
+---
+
+### 🛩️ 8. Aeolus Drone Piloting Workshop  
+**📍 BITS Pilani, Hyderabad | 🗓️ April 2025**  
+**🎓 Organized by:** Aeolus Club, BITS Pilani Hyderabad  
+
+#### 🔧 Activities:
+- Practiced core flight controls using **LiftOff simulator**:  
+  - Yaw, Pitch, Roll, and Hovering  
+- Transitioned to **real-world quadcopter piloting** with supervised sessions  
+
+#### 🚀 Outcome:
+- Improved confidence and control with drone handling — both simulated and physical  
+- Developed intuition around drone physics and flight response  
+
+---
+
+### 🚀 9. Drone Expo Conference 2025  
+**📍 HITEX Exhibition Centre, Hyderabad | 🗓️ April 14, 2025**  
+**🎓 Organized by:** Services International, AIC RRU, RRU India, TiHAN IIT Hyderabad, DroneTV.in, India Drone Academy, AGI, and more  
+
+#### 🧠 Highlights:
+**Key Exhibitors:**  
+- 🛰️ **TiHAN IIT Hyderabad**: Chakravyuh Cargo Drone (250 kg payload)  
+- 🧠 **AVPL International**: AI + Drone tech for agriculture  
+- 🛸 **EON Space Labs**, **AEROLYTE**, **COPTER Innovations**: Surveillance, drone shows, and drone frames  
+- 🔋 **ATC Energy Systems**, **Carbon Light**, **Matrix Moon**: Battery, lightweight frame, and mission tech  
+- 🖨️ **Formlabs**, **Robu.in**, **Best Engineering Aids**: 3D printing, robotics, agri-drones  
+- 🦾 **Xboom Utilities**: Robotic Dog & automation  
+- 🧒 **Sharpener**: Laurus School students presenting tech projects  
+
+#### 🌟 Personal Highlights:
+- Reconnected with mentors and teams from:  
+  - **Aerotron 3.0 (MLRIT)**  
+  - **Team Vyoma (JNTUH)**  
+  - **IIT-H UAV Workshop**  
+- Met members from **Drone Club NIAT**, **NxtWave Institute of Advanced Technologies**  
+- Gained insight into India’s drone ecosystem — from defense to agriculture, surveillance to 3D manufacturing  
+
+#### 💬 Key Takeaway:
+> *A mind-expanding event that showed how drone tech is revolutionizing industries—from farming fields to frontlines.*
+
 ## 📂 Repository Structure (Coming Soon)
 ```plaintext
 📁 First_Year/
