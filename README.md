@@ -61,6 +61,7 @@ Welcome to my curated collection of workshops, expos, and technical events atten
 **🏢 Organized by:** Aero Club MLRIT, Wings and Props Pvt. Ltd, Dept. of Aeronautical Engineering  
 **🏆 Team Rank:** 3rd Place (Flying Performance) out of 26 teams  
 **👨‍✈️ Role:** Team Captain  
+**🧱 Materials Used:** Foam Board + Balsa Wood
 **✈️ RC-Aircraft Name:** *The Plane*
 
 #### 🧠 Highlights:
@@ -76,8 +77,51 @@ Welcome to my curated collection of workshops, expos, and technical events atten
 - Led a team of peers as captain and coordinated across all build stages
 
 #### 💡 Outcome:
-- "TGE Plane" successfully flew during the final round  
+- "The Plane" successfully flew during the final round  
 - Secured 3rd position in flying out of 26 participating teams
+
+---
+
+### 🎯 4. Vigyan Vaibhav – National Tech Expo & Leadership Address  
+**📍 Gachibowli Stadium, Hyderabad | 🗓️ Feb 28, 2025**  
+**🎓 Organized by:** Kalam Institute of Youth Excellence, AeSI, DRDO  
+
+Witnessed keynote speeches from:
+- Dr. G. Satheesh Reddy (Former DRDO Chairman)  
+- Dr. Samir V. Kamat (Current DRDO Chairman)  
+- Dr. Ummalaneni Raja Babu (Director, RCI)  
+- Shri Rajnath Singh (Defence Minister)  
+- Shri Revanth Reddy (CM, Telangana)
+
+💬 Focus: **Vikasit Bharat 2047** vision, importance of **core engineering** in national development.  
+🔍 Explored 200+ defense and space technology stalls including:  
+DRDL, BHEL, HAL, BEL, BDL, CSIR-IICT, Skyroot, BrahMos, Paras Defence, Ananth Technologies, SolarZ, Wings and Props, and more.  
+🛸 Concluded with a **Drone Show** as a symbol of India’s UAV progress.
+
+---
+
+### 🛩️ 5. Quadcopter Drone & UAV Workshop  
+**📍 IIT Hyderabad | 🗓️ Mar 8, 2025**  
+**🎓 Organized by:** World Technocon & Tinkerer's Lab, IITH  
+**👨‍🏫 Instructors:** Aerofoil Innovations  
+
+Hands-on drone training from hardware to flight:
+- Drone hardware breakdown: flight controllers, motors, sensors  
+- Ardupilot software calibration and mission planning  
+- Flew **DJI Air2S** and a **VTOL (Vertical Take-Off and Landing)** drone  
+- **First-time piloting experience** with real-time flight control — unforgettable milestone!
+
+---
+
+### ✈️ 6. RC Aircraft Workshop – From Design to Fabrication  
+**📍 JNTUH College of Engineering | 🗓️ Mar 27–28, 2025**  
+**🎓 Organized by:** Techobytes Technologies & JNTUH CE  
+**👨‍🏫 Instructors:** Team Vyoma (RV College of Engineering, Bangalore)  
+**🏅 Recognition:** *Best RC Plane Performer* T-shirt  
+**✈️ RC-Aircraft Name:** *Jack Sparrow*
+
+- Day 1: Fabricated the RC aircraft on **Depron Sheets**  
+- Day 2: Installed avionics and successfully flew with JNTUH seniors' collaboration
 
 ---
 
